@@ -1,0 +1,20 @@
+export const API = 'API'
+export const API_REQUEST = 'API_REQUEST'
+export const API_SUCCESS = 'API_SUCCESS'
+export const API_ERROR = 'API_ERROR'
+
+export const LOGIN_S = 'LOGIN_SUCCESS'
+export const LOGIN_F = 'LOGIN_FAIL'
+export const LOGOUT = 'LOGOUT'
+
+export const API_ADD_S='API_ADD_SUCCESS'
+export const API_ADD_F='API_ADD_FAIL'
+export const API_VIEW_S='API_VIEW_SUCCESS'
+export const API_VIEW_F='API_VIEW_FAIL'
+export const API_DELETE_S='API_DELETE_SECCESS'
+export const API_DELETE_F='API_DELETE_FAIL'
+export const API_GET_S='API_GET_SECCESS'
+export const API_GET_F='API_GET_FAIL'
+export const API_UPDATE_S='API_UPDATE_SECCESS'
+export const API_UPDATE_F='API_UPDATE_FAIL'
+
